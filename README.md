@@ -1,4 +1,4 @@
-# Document-Aware Support Assistant
+# Document-Assistant
 
 A support assistant that answers questions **only from the documents you give it**. Upload PDF, Word, TXT or
 Markdown files, then hold a multi-turn conversation: the assistant remembers what you asked, does not repeat
